@@ -19,6 +19,8 @@ Cada problema está en una carpeta diferente y sigue esta estructura:
 ┗━○ (ejercicio).md  -> Documentación
 ``` 
 
+Pueden haber archivos extra para código que no se quiera colocar en el archivo principal (por ejemplo, para que `main.py`) sea un orquestador solamente. Además de plantea usar Typst para la documentación como alternativa a Markdown. Si es el caso se añade esa información y las instrucciones de uso.
+
 Los ejercicios (con los nombres de las carpetas) están asignados de la siguiente manera:
 
 - Daniel Durán:
